@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Image Editor",
+  "description": "An application that allows users to edit images using text prompts powered by the Gemini 2.5 Flash Image model. Upload an image, provide an editing instruction, and see the AI-generated result.",
+  "requestFramePermissions": []
+}
